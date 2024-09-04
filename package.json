@@ -1,12 +1,12 @@
 {
-  "name": "⚡THUNDER-HD⚡",
+  "name": "THUNDER-HD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ⚡THUNDER-HD⚡",
-    "stop": "pm2 stop ⚡THUNDER-HD⚡",
-    "restart": "pm2 restart ⚡THUNDER-HD⚡"
+    "start": "pm2 start index.js --deep-monitoring --attach --name THUNDER-HD",
+    "stop": "pm2 stop THUNDER-HD",
+    "restart": "pm2 restart THUNDER-HD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
