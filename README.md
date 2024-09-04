@@ -1,0 +1,2 @@
+# -THUNDER-HD-
+⚡I  LOVE  MY. EX G.F  HIMASHA ⚡❤
